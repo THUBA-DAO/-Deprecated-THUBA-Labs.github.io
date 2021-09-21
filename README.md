@@ -6,6 +6,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### config rem according to the 4th part of [this blog](https://www.cnblogs.com/siem/p/13026339.html)
 
+If you want to deploy to github.io as well as thublockchain.org, you can run:
+
+### npm run deploy
+
+then set the custom domain in [this url](https://github.com/THUBA-Labs/THUBA-Labs.github.io/settings/pages) to `thublockchain.org`
+
 In the project directory, you can run:
 
 ### `yarn start`
