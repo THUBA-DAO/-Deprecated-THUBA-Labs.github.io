@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/THUBA-Labs.github.io/static/css/main.a7583332.chunk.css",
-    "main.js": "/THUBA-Labs.github.io/static/js/main.6981157a.chunk.js",
-    "main.js.map": "/THUBA-Labs.github.io/static/js/main.6981157a.chunk.js.map",
+    "main.css": "/THUBA-Labs.github.io/static/css/main.7ea21871.chunk.css",
+    "main.js": "/THUBA-Labs.github.io/static/js/main.d977c153.chunk.js",
+    "main.js.map": "/THUBA-Labs.github.io/static/js/main.d977c153.chunk.js.map",
     "runtime-main.js": "/THUBA-Labs.github.io/static/js/runtime-main.a56362e4.js",
     "runtime-main.js.map": "/THUBA-Labs.github.io/static/js/runtime-main.a56362e4.js.map",
     "static/js/2.852ab25a.chunk.js": "/THUBA-Labs.github.io/static/js/2.852ab25a.chunk.js",
@@ -10,9 +10,9 @@
     "static/js/3.5843c2cd.chunk.js": "/THUBA-Labs.github.io/static/js/3.5843c2cd.chunk.js",
     "static/js/3.5843c2cd.chunk.js.map": "/THUBA-Labs.github.io/static/js/3.5843c2cd.chunk.js.map",
     "index.html": "/THUBA-Labs.github.io/index.html",
-    "static/css/main.a7583332.chunk.css.map": "/THUBA-Labs.github.io/static/css/main.a7583332.chunk.css.map",
+    "static/css/main.7ea21871.chunk.css.map": "/THUBA-Labs.github.io/static/css/main.7ea21871.chunk.css.map",
     "static/js/2.852ab25a.chunk.js.LICENSE.txt": "/THUBA-Labs.github.io/static/js/2.852ab25a.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/THUBA-Labs.github.io/static/media/DongQingHeiTi-1.e3eb2c20.otf",
+    "static/media/App.css": "/THUBA-Labs.github.io/static/media/Gilroy-Bold.a64a9abe.otf",
     "static/media/arrow_forward_24px.1e89362c.svg": "/THUBA-Labs.github.io/static/media/arrow_forward_24px.1e89362c.svg",
     "static/media/arrow_yellow.a7880dca.svg": "/THUBA-Labs.github.io/static/media/arrow_yellow.a7880dca.svg",
     "static/media/bg_pic.800d18d6.svg": "/THUBA-Labs.github.io/static/media/bg_pic.800d18d6.svg",
@@ -23,19 +23,26 @@
     "static/media/indonesia.ea1f5cfb.svg": "/THUBA-Labs.github.io/static/media/indonesia.ea1f5cfb.svg",
     "static/media/korea.41b978b0.svg": "/THUBA-Labs.github.io/static/media/korea.41b978b0.svg",
     "static/media/logo.de8c9160.svg": "/THUBA-Labs.github.io/static/media/logo.de8c9160.svg",
+    "static/media/logo_colored.8e699426.svg": "/THUBA-Labs.github.io/static/media/logo_colored.8e699426.svg",
+    "static/media/mail_box.9761a417.svg": "/THUBA-Labs.github.io/static/media/mail_box.9761a417.svg",
     "static/media/member1.66f2a9bf.png": "/THUBA-Labs.github.io/static/media/member1.66f2a9bf.png",
     "static/media/member2.28e34ccd.png": "/THUBA-Labs.github.io/static/media/member2.28e34ccd.png",
     "static/media/member3.f709241d.png": "/THUBA-Labs.github.io/static/media/member3.f709241d.png",
     "static/media/member4.58736ca6.png": "/THUBA-Labs.github.io/static/media/member4.58736ca6.png",
     "static/media/member5.5aac3bdf.png": "/THUBA-Labs.github.io/static/media/member5.5aac3bdf.png",
     "static/media/member6.8619fee5.png": "/THUBA-Labs.github.io/static/media/member6.8619fee5.png",
+    "static/media/p1.b2bb7fec.png": "/THUBA-Labs.github.io/static/media/p1.b2bb7fec.png",
+    "static/media/p2.3458f20d.png": "/THUBA-Labs.github.io/static/media/p2.3458f20d.png",
+    "static/media/p7.8b8677b2.png": "/THUBA-Labs.github.io/static/media/p7.8b8677b2.png",
+    "static/media/public-we.33ebfa9b.png": "/THUBA-Labs.github.io/static/media/public-we.33ebfa9b.png",
     "static/media/research_pic.f14641e5.png": "/THUBA-Labs.github.io/static/media/research_pic.f14641e5.png",
-    "static/media/talk_pic.9d83b776.png": "/THUBA-Labs.github.io/static/media/talk_pic.9d83b776.png"
+    "static/media/talk_pic.9d83b776.png": "/THUBA-Labs.github.io/static/media/talk_pic.9d83b776.png",
+    "static/media/wechat-helper.59652d31.png": "/THUBA-Labs.github.io/static/media/wechat-helper.59652d31.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a56362e4.js",
     "static/js/2.852ab25a.chunk.js",
-    "static/css/main.a7583332.chunk.css",
-    "static/js/main.6981157a.chunk.js"
+    "static/css/main.7ea21871.chunk.css",
+    "static/js/main.d977c153.chunk.js"
   ]
 }
