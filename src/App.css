@@ -109,7 +109,7 @@
 
 .header_font {
   position: absolute;
-  width: 36px;
+  width: 40px;
   height: 21px;
 
   font-family: Helvetica, DQHT;
@@ -493,7 +493,7 @@
   top:351px;
 }
 .name5 {
-  width: 133px;
+  width: 136px;
   top:351px;
   left:133px;
 }
@@ -522,7 +522,7 @@
   top:357px;
 }
 .country5 {
-  left:267px;
+  left:272px;
   top:357px;
 }
 .country6 {
@@ -938,14 +938,14 @@
   width: 128px;
   height: 48px;
   left: 79px;
-  top: 6938px;
+  top: 6988px;
 }
 .rights {
   position: absolute;
   width: 298px;
   height: 22px;
   left: 1012px;
-  top: 6951px;
+  top: 7001px;
 
   font-family: Gilroy-Bold;
   font-size: 18px;
@@ -953,4 +953,7 @@
   text-transform: uppercase;
 
   color: #2D2E2E;
+}
+.btn {
+  cursor: pointer;
 }
