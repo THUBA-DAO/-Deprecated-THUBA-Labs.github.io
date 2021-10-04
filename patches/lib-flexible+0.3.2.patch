@@ -1,0 +1,13 @@
+diff --git a/node_modules/lib-flexible/flexible.js b/node_modules/lib-flexible/flexible.js
+index c748ed9..f0c4739 100644
+--- a/node_modules/lib-flexible/flexible.js
++++ b/node_modules/lib-flexible/flexible.js
+@@ -69,7 +69,7 @@
+     function refreshRem(){
+         var width = docEl.getBoundingClientRect().width;
+         if (width / dpr > 540) {
+-            width = 540 * dpr;
++            width = width * dpr;
+         }
+         var rem = width / 10;
+         docEl.style.fontSize = rem + 'px';

@@ -75,7 +75,8 @@
     "build": "node scripts/build.js",
     "test": "node scripts/test.js",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "postinstall": "patch-package"
   },
   "eslintConfig": {
     "extends": [
@@ -155,6 +156,7 @@
   "devDependencies": {
     "gh-pages": "^3.2.3",
     "node-sass": "^6.0.1",
+    "patch-package": "^6.4.7",
     "sass-loader": "^10.2.0"
   }
 }
