@@ -6,6 +6,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### Warning`
+If you want to redeploy the project on `thublockchain.org`, please change the `homepage` in package.json from `/` to `https://THUBA-Labs.github.io/THUBA-Labs.github.io`. After that please set `homepage` to `/` and push again.
+
 ## Available Scripts
 
 ### config rem according to the 4th part of [this blog](https://www.cnblogs.com/siem/p/13026339.html)
