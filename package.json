@@ -1,7 +1,7 @@
 {
   "name": "thuba-website",
   "version": "0.1.0",
-  "homepage": "https://THUBA-Labs.github.io/THUBA-Labs.github.io",
+  "homepage": "/",
   "private": true,
   "dependencies": {
     "@babel/core": "7.12.3",
