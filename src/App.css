@@ -96,6 +96,7 @@
   letter-spacing: 5px;
 
   color: #6246E4;
+  z-index: 4;
 }
 
 .logo {
@@ -684,7 +685,17 @@
 }
 .job_depart {
   position: absolute;
-  width: 59px;
+  width: 70px;
+  height: 20px;
+  left:198px;
+  top:386px;
+
+  background: rgba(98, 70, 228, 0.2);
+  border-radius: 29.5px;
+}
+.job_depart_en {
+  position: absolute;
+  width: 300px;
   height: 20px;
   left:198px;
   top:386px;
@@ -711,7 +722,7 @@
   position: absolute;
   width: 37px;
   height: 22px;
-  left:11px;
+  left:15px;
   top:1px;
 
   font-family: Helvetica, DQHT;
@@ -896,9 +907,9 @@
 }
 .public {
   position: absolute;
-  width: 100px;
+  width: 200px;
   height: 25px;
-  left: 984px;
+  left: 934px;
   top: 526px;
 
   font-family: Helvetica, DQHT;
@@ -918,9 +929,9 @@
 }
 .helper {
   position: absolute;
-  width: 123px;
+  width: 200px;
   height: 25px;
-  left: 1201px;
+  left: 1160px;
   top: 526px;
 
   font-family: Helvetica, DQHT;
