@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/THUBA-Labs.github.io/static/css/main.b3d8f7fd.chunk.css",
-    "main.js": "/THUBA-Labs.github.io/static/js/main.b59992ce.chunk.js",
-    "main.js.map": "/THUBA-Labs.github.io/static/js/main.b59992ce.chunk.js.map",
-    "runtime-main.js": "/THUBA-Labs.github.io/static/js/runtime-main.80d5e167.js",
-    "runtime-main.js.map": "/THUBA-Labs.github.io/static/js/runtime-main.80d5e167.js.map",
-    "static/js/2.617fee80.chunk.js": "/THUBA-Labs.github.io/static/js/2.617fee80.chunk.js",
-    "static/js/2.617fee80.chunk.js.map": "/THUBA-Labs.github.io/static/js/2.617fee80.chunk.js.map",
-    "static/js/3.148c726c.chunk.js": "/THUBA-Labs.github.io/static/js/3.148c726c.chunk.js",
-    "static/js/3.148c726c.chunk.js.map": "/THUBA-Labs.github.io/static/js/3.148c726c.chunk.js.map",
+    "main.js": "/THUBA-Labs.github.io/static/js/main.e4421ef3.chunk.js",
+    "main.js.map": "/THUBA-Labs.github.io/static/js/main.e4421ef3.chunk.js.map",
+    "runtime-main.js": "/THUBA-Labs.github.io/static/js/runtime-main.f78311c3.js",
+    "runtime-main.js.map": "/THUBA-Labs.github.io/static/js/runtime-main.f78311c3.js.map",
+    "static/js/2.22db0ba3.chunk.js": "/THUBA-Labs.github.io/static/js/2.22db0ba3.chunk.js",
+    "static/js/2.22db0ba3.chunk.js.map": "/THUBA-Labs.github.io/static/js/2.22db0ba3.chunk.js.map",
+    "static/js/3.05aa865f.chunk.js": "/THUBA-Labs.github.io/static/js/3.05aa865f.chunk.js",
+    "static/js/3.05aa865f.chunk.js.map": "/THUBA-Labs.github.io/static/js/3.05aa865f.chunk.js.map",
     "index.html": "/THUBA-Labs.github.io/index.html",
     "static/css/main.b3d8f7fd.chunk.css.map": "/THUBA-Labs.github.io/static/css/main.b3d8f7fd.chunk.css.map",
-    "static/js/2.617fee80.chunk.js.LICENSE.txt": "/THUBA-Labs.github.io/static/js/2.617fee80.chunk.js.LICENSE.txt",
+    "static/js/2.22db0ba3.chunk.js.LICENSE.txt": "/THUBA-Labs.github.io/static/js/2.22db0ba3.chunk.js.LICENSE.txt",
     "static/media/App.css": "/THUBA-Labs.github.io/static/media/Gilroy-Bold.a64a9abe.otf",
     "static/media/arrow_forward_24px.1e89362c.svg": "/THUBA-Labs.github.io/static/media/arrow_forward_24px.1e89362c.svg",
     "static/media/arrow_yellow.a7880dca.svg": "/THUBA-Labs.github.io/static/media/arrow_yellow.a7880dca.svg",
@@ -40,9 +40,9 @@
     "static/media/wechat-helper.59652d31.png": "/THUBA-Labs.github.io/static/media/wechat-helper.59652d31.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.80d5e167.js",
-    "static/js/2.617fee80.chunk.js",
+    "static/js/runtime-main.f78311c3.js",
+    "static/js/2.22db0ba3.chunk.js",
     "static/css/main.b3d8f7fd.chunk.css",
-    "static/js/main.b59992ce.chunk.js"
+    "static/js/main.e4421ef3.chunk.js"
   ]
 }
