@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/THUBA-Labs.github.io/static/css/main.f33c9076.chunk.css",
-    "main.js": "/THUBA-Labs.github.io/static/js/main.952d77b5.chunk.js",
-    "main.js.map": "/THUBA-Labs.github.io/static/js/main.952d77b5.chunk.js.map",
+    "main.css": "/THUBA-Labs.github.io/static/css/main.f860bba2.chunk.css",
+    "main.js": "/THUBA-Labs.github.io/static/js/main.7dd5c437.chunk.js",
+    "main.js.map": "/THUBA-Labs.github.io/static/js/main.7dd5c437.chunk.js.map",
     "runtime-main.js": "/THUBA-Labs.github.io/static/js/runtime-main.060a0cfa.js",
     "runtime-main.js.map": "/THUBA-Labs.github.io/static/js/runtime-main.060a0cfa.js.map",
     "static/js/2.fdf4e9b7.chunk.js": "/THUBA-Labs.github.io/static/js/2.fdf4e9b7.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.1c597235.chunk.js": "/THUBA-Labs.github.io/static/js/3.1c597235.chunk.js",
     "static/js/3.1c597235.chunk.js.map": "/THUBA-Labs.github.io/static/js/3.1c597235.chunk.js.map",
     "index.html": "/THUBA-Labs.github.io/index.html",
-    "static/css/main.f33c9076.chunk.css.map": "/THUBA-Labs.github.io/static/css/main.f33c9076.chunk.css.map",
+    "static/css/main.f860bba2.chunk.css.map": "/THUBA-Labs.github.io/static/css/main.f860bba2.chunk.css.map",
     "static/js/2.fdf4e9b7.chunk.js.LICENSE.txt": "/THUBA-Labs.github.io/static/js/2.fdf4e9b7.chunk.js.LICENSE.txt",
     "static/media/App.css": "/THUBA-Labs.github.io/static/media/Gilroy-Bold.a64a9abe.otf",
     "static/media/arrow_forward_24px.1e89362c.svg": "/THUBA-Labs.github.io/static/media/arrow_forward_24px.1e89362c.svg",
@@ -35,6 +35,7 @@
     "static/media/p10.6abe18ae.svg": "/THUBA-Labs.github.io/static/media/p10.6abe18ae.svg",
     "static/media/p11.6b789dbe.svg": "/THUBA-Labs.github.io/static/media/p11.6b789dbe.svg",
     "static/media/p12.9bf28553.jpg": "/THUBA-Labs.github.io/static/media/p12.9bf28553.jpg",
+    "static/media/p13.7535a2d8.png": "/THUBA-Labs.github.io/static/media/p13.7535a2d8.png",
     "static/media/p2.3458f20d.png": "/THUBA-Labs.github.io/static/media/p2.3458f20d.png",
     "static/media/p7.8b8677b2.png": "/THUBA-Labs.github.io/static/media/p7.8b8677b2.png",
     "static/media/p9.2d6bca53.png": "/THUBA-Labs.github.io/static/media/p9.2d6bca53.png",
@@ -46,7 +47,7 @@
   "entrypoints": [
     "static/js/runtime-main.060a0cfa.js",
     "static/js/2.fdf4e9b7.chunk.js",
-    "static/css/main.f33c9076.chunk.css",
-    "static/js/main.952d77b5.chunk.js"
+    "static/css/main.f860bba2.chunk.css",
+    "static/js/main.7dd5c437.chunk.js"
   ]
 }
